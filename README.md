@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯 Becoming a Front End Developer<br>📚 Learning JavaScript<br>🖥️ Building my Portfolio
+🎯 Becoming a Data Analyst<br>📚 Learning Python<br>🖥️ Building my Portfolio
 
 
 ## 🌐 Socials:
