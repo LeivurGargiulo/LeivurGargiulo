@@ -21,11 +21,11 @@ I'm just still a Student, but I'm learning a lot! These are my future main skill
     🔷 TypeScript (JavaScript with static typing for better maintainability)
     🧩 JQuery (older JavaScript library for DOM manipulation, AJAX, and effects)
 
-🖼 Frameworks & Libraries (Alternatives to each other)
+🖼 Frameworks & Libraries
     ⚛ React + Router (building dynamic UIs and navigation in SPAs)
     🔺 Angular (full framework for enterprise applications)
 
-📦 UI Libraries (Can be used together)
+📦 UI Libraries
     🎨 Tailwind + Tailwind UI (pre-designed components for faster development)
 
 ⚡ Optimization & Tooling
@@ -114,8 +114,8 @@ I'm just still a Student, but I'm learning a lot! These are my future main skill
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/luisina-gargiulo) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-violet)](https://)
-[![Instagram](https://img.shields.io/badge/Instagram-orange](https://www.instagram.com/)
-[![TikTok](https://img.shields.io/badge/TikTok-green](https://www.tiktok.com/)
-[![YouTube](https://img.shields.io/badge/YouTube-red](https://www.youtube.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-red](https://www.gmail.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-orange)](https://www.instagram.com/)
+[![TikTok](https://img.shields.io/badge/TikTok-green)](https://www.tiktok.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-red)](https://www.youtube.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-red)](https://www.gmail.com/)
 
