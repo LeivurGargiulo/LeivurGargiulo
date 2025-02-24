@@ -1,121 +1,120 @@
-# 🌟 Luisina Gargiulo
+# 🌟 Leivur Gargiulo  
 
-## 👩‍💻 About Me
+## 👩‍💻 Sobre Mí  
 
-Hi! I'm Luisina!
+¡Hola! Soy Leivur.  
 
-🚀 Enthusiastic Systems **Analysis Student** | Aspiring **Software Developer & Data Analyst**  
-💻 Passionate about **Software Engineering and Data**  
-📊 Currently learning **Java and Python** 
+🚀 Estudiante entusiasta de **Análisis de Sistemas** | Aspirante a **Desarrollador de Software y Analista de Datos**  
+💻 Apasionado por la **Ingeniería de Software y los Datos**  
+📊 Actualmente aprendiendo **Java y Python**  
 
-## 🔧 Skills & Technologies  
+## 🔧 Habilidades y Tecnologías  
 
-I'm just still a Student, but I'm learning a lot! These are my future main skills:
+Todavía soy estudiante, pero estoy aprendiendo mucho. ¡Estas serán mis principales habilidades en el futuro!  
 
-### 🌐 Front-End
-📌 Base Technologies
-    🏗 HTML (basic structure of web pages)
-    🎨 CSS + Flexbox (styling and responsive layout)
-    🎨 SASS (CSS preprocessor for more organized styles)
-    ⚡ JavaScript (core language for web development and interactivity)
-    🔷 TypeScript (JavaScript with static typing for better maintainability)
-    🧩 JQuery (older JavaScript library for DOM manipulation, AJAX, and effects)
+### 🌐 Front-End  
+📌 Tecnologías Base  
+   🏗 HTML (estructura básica de páginas web)  
+   🎨 CSS + Flexbox (diseño y maquetación responsiva)  
+   🎨 SASS (preprocesador de CSS para estilos más organizados)  
+   ⚡ JavaScript (lenguaje principal para desarrollo web e interactividad)  
+   🔷 TypeScript (JavaScript con tipado estático para mejor mantenimiento)  
+   🧩 JQuery (biblioteca de JavaScript para manipulación del DOM, AJAX y efectos)  
 
-🖼 Frameworks & Libraries
-    ⚛ React + Router (building dynamic UIs and navigation in SPAs)
-    🔺 Angular (full framework for enterprise applications)
+🖼 Frameworks y Librerías  
+   ⚛ React + Router (construcción de UIs dinámicas y navegación en SPAs)  
+   🔺 Angular (framework completo para aplicaciones empresariales)  
 
-📦 UI Libraries
-    🎨 Tailwind + Tailwind UI (pre-designed components for faster development)
+📦 Librerías de UI  
+   🎨 Tailwind + Tailwind UI (componentes pre-diseñados para desarrollo rápido)  
 
-⚡ Optimization & Tooling
-    ⚡ Vite.js (fast development server and bundler)
-    ⚡ Next.js (React framework for SSR and static sites)
-    ⚡ Astro (optimized framework for fast-loading websites)
+⚡ Optimización y Herramientas  
+   ⚡ Vite.js (servidor de desarrollo rápido y empaquetador)  
+   ⚡ Next.js (framework de React para SSR y sitios estáticos)  
+   ⚡ Astro (framework optimizado para sitios web de carga rápida)  
 
-🔄 State Management
-    🔄 Redux (state management for large-scale React applications)
+🔄 Gestión de Estado  
+   🔄 Redux (gestión de estado para aplicaciones React de gran escala)  
 
-🔗 Version Control & Collaboration
-    🔗 Git + GitHub (version control and code collaboration)
+🔗 Control de Versiones y Colaboración  
+   🔗 Git + GitHub (control de versiones y colaboración en código)  
 
-### 🖥️ Back-End
-💻 Programming Languages
-    🐍 Python (versatile language for APIs, automation, and data processing) + Pandas, NumPy, Matplotlib, Seaborn (libraries for Data Analysis)
-    🔵 C# (main language for .NET development)
-    ☕ Java (enterprise applications and backend systems)
-    🐘 PHP + OOP (web development with object-oriented programming)
+### 🖥️ Back-End  
+💻 Lenguajes de Programación  
+   🐍 Python (lenguaje versátil para APIs, automatización y procesamiento de datos) + Pandas, NumPy, Matplotlib, Seaborn (librerías para Análisis de Datos)  
+   🔵 C# (lenguaje principal para desarrollo en .NET)  
+   ☕ Java (aplicaciones empresariales y sistemas backend)  
+   🐘 PHP + POO (desarrollo web con programación orientada a objetos)  
 
-🛠 Frameworks & Tools
-    🌱 Spring Boot + Spring Security (Java framework for secure REST APIs)
-    🎵 Laravel (PHP framework for web applications)
-    🚀 Node.js + Express + npm (server-side JavaScript with package management)
-    🏗 .NET (Microsoft’s framework for backend development)
+🛠 Frameworks y Herramientas  
+   🌱 Spring Boot + Spring Security (framework de Java para APIs REST seguras)  
+   🎵 Laravel (framework de PHP para aplicaciones web)  
+   🚀 Node.js + Express + npm (JavaScript del lado del servidor con gestión de paquetes)  
+   🏗 .NET (framework de Microsoft para desarrollo backend)  
 
-🗄 Databases & ORMs
-    🗄 SQL (MySQL | PostgreSQL | SQL Server | Oracle) (relational database management systems)
-    🌿 MongoDB (NoSQL database for scalable applications)
-    🔥 Firebase (real-time database and authentication)
-    🔗 Sequelize (ORM for managing SQL databases)
+🗄 Bases de Datos y ORMs  
+   🗄 SQL (MySQL | PostgreSQL | SQL Server | Oracle) (sistemas de gestión de bases de datos relacionales)  
+   🌿 MongoDB (base de datos NoSQL para aplicaciones escalables)  
+   🔥 Firebase (base de datos en tiempo real y autenticación)  
+   🔗 Sequelize (ORM para gestionar bases de datos SQL)  
 
-🔐 Security & API Testing
-    🔑 JWT (secure user authentication with JSON Web Tokens)
-    🧪 Postman (API testing and automation)
+🔐 Seguridad y Pruebas de API  
+   🔑 JWT (autenticación segura con JSON Web Tokens)  
+   🧪 Postman (pruebas y automatización de APIs)  
 
-### 📲 Mobile Development
-🤖 Android (mobile development for Android devices)
-☕ Java (legacy Android apps)
-⚛ React Native (cross-platform mobile development)
-🔵 Kotlin (modern Android development language)
+### 📲 Desarrollo Móvil  
+🤖 Android (desarrollo móvil para dispositivos Android)  
+☕ Java (desarrollo de apps Android heredadas)  
+⚛ React Native (desarrollo móvil multiplataforma)  
+🔵 Kotlin (lenguaje moderno para desarrollo en Android)  
 
-### 🎮 Game Development
-🎮 C# (used in Unity for game development)
-🎮 C++ (high-performance game programming)
-🛠 Unity | Godot (game engines for 2D and 3D development)
-🔷 Unreal Engine (AAA game engine with high-end graphics)
-🎨 Blender | Autodesk Maya (3D modeling and animation)
+### 🎮 Desarrollo de Videojuegos  
+🎮 C# (usado en Unity para desarrollo de videojuegos)  
+🎮 C++ (programación de alto rendimiento para videojuegos)  
+🛠 Unity | Godot (motores de juego para desarrollo 2D y 3D)  
+🔷 Unreal Engine (motor de juegos AAA con gráficos de alta calidad)  
+🎨 Blender | Autodesk Maya (modelado y animación 3D)  
 
-### 📊 Data Analysis
-🗄 SQL (queries, optimization, and data modeling)
-📋 Excel (pivot tables, advanced formulas, and automation)
-📊 Tableau (interactive dashboards and visualizations)
-📈 Power BI (business intelligence and data reporting)
+### 📊 Análisis de Datos  
+🗄 SQL (consultas, optimización y modelado de datos)  
+📋 Excel (tablas dinámicas, fórmulas avanzadas y automatización)  
+📊 Tableau (dashboards interactivos y visualización de datos)  
+📈 Power BI (inteligencia de negocios e informes de datos)  
 
-### 📦 Other Technologies
-🐧 Linux (operating system for development and servers)
-🐳 Docker (containerized applications and microservices)
-✅ Testing QA (software quality assurance and testing)
-📌 Agile & Scrum (software development methodologies)
-🔍 SEO (search engine optimization for better ranking)
-🌐 WordPress (CMS for website creation)
-📑 Notion | Trello (project management and organization)
-🏗 Bubble (no-code web app development)
+### 📦 Otras Tecnologías  
+🐧 Linux (sistema operativo para desarrollo y servidores)  
+🐳 Docker (aplicaciones en contenedores y microservicios)  
+✅ Testing QA (aseguramiento de calidad de software y pruebas)  
+📌 Agile & Scrum (metodologías de desarrollo de software)  
+🔍 SEO (optimización para motores de búsqueda)  
+🌐 WordPress (CMS para creación de sitios web)  
+📑 Notion | Trello (gestión de proyectos y organización)  
+🏗 Bubble (desarrollo de aplicaciones web sin código)  
 
-### 🎨 Design & UI/UX
-🎭 UX/UI (user experience and interface design)
-🖼 Photoshop | Illustrator  (graphic and layout design)
-🎬 After Effects | Premiere (video and motion graphics editing)
-🎨 Figma | XD (prototyping and UI design tools)
+### 🎨 Diseño y UI/UX  
+🎭 UX/UI (experiencia de usuario y diseño de interfaces)  
+🖼 Photoshop | Illustrator (diseño gráfico y maquetación)  
+🎬 After Effects | Premiere (edición de video y gráficos en movimiento)  
+🎨 Figma | XD (herramientas de prototipado y diseño de UI)  
 
-## 💡 I'm Passionate About  
-- 👨‍💻 **Technology & Innovation**: Always exploring new trends in software and data science.  
-- 🔄 **Automation & Optimization**: Finding ways to improve workflows and efficiency.  
-- 🌍 **Open Source & Community**: Learning, sharing, and collaborating with others. 
+## 💡 Me Apasiona  
+- 👨‍💻 **Tecnología e Innovación**: Siempre explorando nuevas tendencias en software y ciencia de datos.  
+- 🔄 **Automatización y Optimización**: Buscando formas de mejorar flujos de trabajo y eficiencia.  
+- 🌍 **Open Source y Comunidad**: Aprendiendo, compartiendo y colaborando con otros.  
 
-## ⚡In my free time:
-- 🎯 Developing a **Personal Organization App** as a PWA  
-- 📈 Working on **Data Analysis projects with real-world datasets**  
+## ⚡ En mi tiempo libre:  
+- 🎯 Desarrollando una **Aplicación de Organización Personal** como PWA  
+- 📈 Trabajando en **proyectos de Análisis de Datos con datasets reales**  
 
-### 🎨 Hobbies:
-- 🎵 **Music & Bass**: Exploring rhythms and composing music.  
-- 🎮 **Gaming**: Enjoying strategy and RPG games.  
-- 🌍 **Learning & Experimenting**: Always working on new personal projects.  
+### 🎨 Hobbies:  
+- 🎵 **Música y Bajo**: Explorando ritmos y componiendo música.  
+- 🎮 **Gaming**: Disfrutando juegos de estrategia y RPG.  
+- 🌍 **Aprender y Experimentar**: Siempre trabajando en nuevos proyectos personales.  
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/luisina-gargiulo) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-violet)](https://)
-[![Instagram](https://img.shields.io/badge/Instagram-orange)](https://www.instagram.com/)
-[![TikTok](https://img.shields.io/badge/TikTok-green)](https://www.tiktok.com/)
-[![YouTube](https://img.shields.io/badge/YouTube-red)](https://www.youtube.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-red)](https://www.gmail.com/)
-
+# 🌐 Redes Sociales:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/luisina-gargiulo)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-violet)](https://)  
+[![Instagram](https://img.shields.io/badge/Instagram-orange)](https://www.instagram.com/)  
+[![TikTok](https://img.shields.io/badge/TikTok-green)](https://www.tiktok.com/)  
+[![YouTube](https://img.shields.io/badge/YouTube-red)](https://www.youtube.com/)  
+[![Gmail](https://img.shields.io/badge/Gmail-red)](https://www.gmail.com/)  
