@@ -10,33 +10,53 @@
 
 ## 🔧 Habilidades y Tecnologías  
 
-Como estudiante de la carrera de Analista de Sistemas, estoy adquiriendo conocimientos en una amplia gama de tecnologías y herramientas. ¡Estas serán mis principales habilidades en el futuro! 
+Como estudiante de la carrera de Desarrollo Web, estoy adquiriendo conocimientos en una amplia gama de tecnologías y herramientas. ¡Estas serán mis principales habilidades en el futuro! 
 
-### 🖥 Tecnologías Base
-- 🚀 Java (desarrollo de aplicaciones robustas y multiplataforma)
-- 🖥 C# (.NET) (creación de soluciones empresariales eficientes)
-- ⚙️ C++ (programación de sistemas y aplicaciones de alto rendimiento)
-- 🐍 Python (lenguaje versátil para desarrollo web, análisis de datos y más)
-- 🌐 PHP (desarrollo de sitios web dinámicos y backend)
-- ⚡ JavaScript (interactividad y dinamismo en páginas web)
-- 🧩 jQuery (biblioteca de JavaScript para manipulación del DOM y AJAX)
-- 📦 AngularJS (framework para construir aplicaciones web dinámicas)
-- 🖼 HTML5 + CSS3 (estructura y diseño moderno de sitios web)
+### 🖥 Tecnologías Web
+🎨 FRONTEND
+🖼 HTML (estructura de las páginas web)
+🎨 CSS (estilos y diseño web)
+🎭 SASS (preprocesador de CSS para mayor eficiencia)
+⚡ JavaScript (interactividad y dinamismo en páginas web)
+🔷 TypeScript (JavaScript mejorado con tipado estático)
+⚛️ React (librería para interfaces de usuario dinámicas)
+🚏 Router (gestión de rutas en aplicaciones React)
+🎨 Tailwind CSS (framework para estilos rápidos y eficientes)
+🖌 Tailwind UI (componentes listos para Tailwind)
+⚙️ Vite.js (entorno de desarrollo rápido para proyectos con React)
+🌍 Next.js (framework sobre React con SSR y SSG, útil para SEO)
+🚀 Astro (framework moderno para sitios web estáticos y dinámicos)
+🔄 Redux (gestión de estado en aplicaciones React)
+🌿 Alpine.js (framework ligero para interactividad sin React)
+🛠 Shadcn UI (librería de componentes moderna para React)
 
-### 🗄 Bases de Datos
-- 💾 SQL Server (gestión de bases de datos empresariales)
-- 🔍 Oracle (base de datos relacional con alta escalabilidad)
-- 🛢 MySQL (base de datos relacional de código abierto)
+🖥 BACKEND
+🛠 Node.js (JavaScript en el backend para crear APIs y servidores)
+🚀 Express (framework ligero para construir APIs con Node.js)
+🛢 MySQL (base de datos relacional para aplicaciones web)
+🔥 Firebase (base de datos NoSQL en la nube de Google)
+🔗 Sequelize (ORM para manejar bases de datos SQL en Node.js)
+🔑 JWT (mecanismo de autenticación segura para usuarios)
 
-### 🖥 Sistemas Operativos y Plataformas
-- 🐧 Linux (administración y uso de sistemas operativos basados en Unix)
-- 📱 Android (desarrollo de aplicaciones móviles)
+🔧 HERRAMIENTAS Y OTRAS TECNOLOGÍAS
+🐙 Git (control de versiones y colaboración en proyectos)
+🌎 i18next (internacionalización y traducción en aplicaciones web)
+📡 Postman (pruebas de APIs y backend)
+🐳 Docker (virtualización y despliegue de aplicaciones)
 
-### 🛠 Herramientas y Frameworks Adicionales
-- 🐙 GitHub (control de versiones y colaboración en proyectos)
-- 📱 React Native (desarrollo de apps móviles con JavaScript y React)
+🚀 METODOLOGÍAS Y OPTIMIZACIÓN
+⚡ Agile (metodología de desarrollo ágil)
+📌 Scrum (marco de trabajo para equipos de desarrollo)
+🔍 SEO (optimización para motores de búsqueda)
 
-### e📊 Tecnologías en Análisis de Datos
+🎨 UI / DISEÑO
+🖌 Photoshop (edición y diseño gráfico)
+🎨 Illustrator (ilustraciones y gráficos vectoriales)
+🎬 Premiere (edición de video profesional)
+🎞 After Effects (animaciones y efectos visuales)
+🖍 XD (diseño y prototipado de interfaces)
+
+### 📊 Tecnologías en Análisis de Datos
 - 🗄 SQL (consultas, optimización y modelado de datos)
 - 📋 Excel (tablas dinámicas, fórmulas avanzadas y automatización)
 - 📊 Tableau (dashboards interactivos y visualización de datos)
