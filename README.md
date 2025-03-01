@@ -13,7 +13,7 @@
 Como estudiante de la carrera de Desarrollo Web, estoy adquiriendo conocimientos en una amplia gama de tecnologías y herramientas. ¡Estas serán mis principales habilidades en el futuro! 
 
 ### 🖥 Tecnologías Web
-🎨 FRONTEND
+🎨 **FRONTEND**
 - 🖼 **HTML** (estructura de las páginas web)
 - 🎨 **CSS** (estilos y diseño web)
 - 🎭 **SASS** (preprocesador de CSS para mayor eficiencia)
@@ -30,7 +30,7 @@ Como estudiante de la carrera de Desarrollo Web, estoy adquiriendo conocimientos
 - 🌿 **Alpine.js** (framework ligero para interactividad sin React)
 - 🛠 **Shadcn UI** (librería de componentes moderna para React)
 
-🖥 BACKEND
+🖥 **BACKEND**
 - 🛠 **Node.js** (JavaScript en el backend para crear APIs y servidores)
 - 🚀 **Express** (framework ligero para construir APIs con Node.js)
 - 🛢 **MySQL** (base de datos relacional para aplicaciones web)
@@ -38,24 +38,23 @@ Como estudiante de la carrera de Desarrollo Web, estoy adquiriendo conocimientos
 - 🔗 **Sequelize** (ORM para manejar bases de datos SQL en Node.js)
 - 🔑 **JWT** (mecanismo de autenticación segura para usuarios)
 
-🔧 HERRAMIENTAS Y OTRAS TECNOLOGÍAS
+🔧 **HERRAMIENTAS Y OTRAS TECNOLOGÍAS**
 - 🐙 **Git** (control de versiones y colaboración en proyectos)
 - 🌎 **i18next** (internacionalización y traducción en aplicaciones web)
 - 📡 **Postman** (pruebas de APIs y backend)
 - 🐳 **Docker** (virtualización y despliegue de aplicaciones)
 
-🚀 METODOLOGÍAS Y OPTIMIZACIÓN
+🚀 **METODOLOGÍAS Y OPTIMIZACIÓN**
 - ⚡ **Agile** (metodología de desarrollo ágil)
 - 📌 **Scrum** (marco de trabajo para equipos de desarrollo)
 - 🔍 **SEO** (optimización para motores de búsqueda)
 
-🎨 UI / DISEÑO
+🎨 **UI / DISEÑO**
 - 🖌 **Photoshop** (edición y diseño gráfico)
 - 🎨 **Illustrator** (ilustraciones y gráficos vectoriales)
 - 🎬 **Premiere** (edición de video profesional)
 - 🎞 **After Effects** (animaciones y efectos visuales)
 - 🖍 **XD** (diseño y prototipado de interfaces)
-
 
 ### 📊 Tecnologías en Análisis de Datos
 - 🗄 SQL (consultas, optimización y modelado de datos)
