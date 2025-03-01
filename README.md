@@ -10,92 +10,40 @@
 
 ## 🔧 Habilidades y Tecnologías  
 
-Todavía soy estudiante, pero estoy aprendiendo mucho. ¡Estas serán mis principales habilidades en el futuro!  
+Como estudiante de la carrera de Analista de Sistemas, estoy adquiriendo conocimientos en una amplia gama de tecnologías y herramientas. ¡Estas serán mis principales habilidades en el futuro! 
 
-### 🌐 Front-End  
-📌 Tecnologías Base  
-   🏗 HTML (estructura básica de páginas web)  
-   🎨 CSS + Flexbox (diseño y maquetación responsiva)  
-   🎨 SASS (preprocesador de CSS para estilos más organizados)  
-   ⚡ JavaScript (lenguaje principal para desarrollo web e interactividad)  
-   🔷 TypeScript (JavaScript con tipado estático para mejor mantenimiento)  
-   🧩 JQuery (biblioteca de JavaScript para manipulación del DOM, AJAX y efectos)  
+### 🖥 Tecnologías Base
+🚀 Java (desarrollo de aplicaciones robustas y multiplataforma)
+🖥 C# (.NET) (creación de soluciones empresariales eficientes)
+⚙️ C++ (programación de sistemas y aplicaciones de alto rendimiento)
+🐍 Python (lenguaje versátil para desarrollo web, análisis de datos y más)
+🌐 PHP (desarrollo de sitios web dinámicos y backend)
+⚡ JavaScript (interactividad y dinamismo en páginas web)
+🧩 jQuery (biblioteca de JavaScript para manipulación del DOM y AJAX)
+📦 AngularJS (framework para construir aplicaciones web dinámicas)
+🖼 HTML5 + CSS3 (estructura y diseño moderno de sitios web)
 
-🖼 Frameworks y Librerías  
-   ⚛ React + Router (construcción de UIs dinámicas y navegación en SPAs)  
-   🔺 Angular (framework completo para aplicaciones empresariales)  
+### 🗄 Bases de Datos
+💾 SQL Server (gestión de bases de datos empresariales)
+🔍 Oracle (base de datos relacional con alta escalabilidad)
+🛢 MySQL (base de datos relacional de código abierto)
 
-📦 Librerías de UI  
-   🎨 Tailwind + Tailwind UI (componentes pre-diseñados para desarrollo rápido)  
+### 🖥 Sistemas Operativos y Plataformas
+🐧 Linux (administración y uso de sistemas operativos basados en Unix)
+📱 Android (desarrollo de aplicaciones móviles)
 
-⚡ Optimización y Herramientas  
-   ⚡ Vite.js (servidor de desarrollo rápido y empaquetador)  
-   ⚡ Next.js (framework de React para SSR y sitios estáticos)  
-   ⚡ Astro (framework optimizado para sitios web de carga rápida)  
+### 🛠 Herramientas y Frameworks Adicionales
+🐙 GitHub (control de versiones y colaboración en proyectos)
+📱 React Native (desarrollo de apps móviles con JavaScript y React)
 
-🔄 Gestión de Estado  
-   🔄 Redux (gestión de estado para aplicaciones React de gran escala)  
-
-🔗 Control de Versiones y Colaboración  
-   🔗 Git + GitHub (control de versiones y colaboración en código)  
-
-### 🖥️ Back-End  
-💻 Lenguajes de Programación  
-   🐍 Python (lenguaje versátil para APIs, automatización y procesamiento de datos) + Pandas, NumPy, Matplotlib, Seaborn (librerías para Análisis de Datos)  
-   🔵 C# (lenguaje principal para desarrollo en .NET)  
-   ☕ Java (aplicaciones empresariales y sistemas backend)  
-   🐘 PHP + POO (desarrollo web con programación orientada a objetos)  
-
-🛠 Frameworks y Herramientas  
-   🌱 Spring Boot + Spring Security (framework de Java para APIs REST seguras)  
-   🎵 Laravel (framework de PHP para aplicaciones web)  
-   🚀 Node.js + Express + npm (JavaScript del lado del servidor con gestión de paquetes)  
-   🏗 .NET (framework de Microsoft para desarrollo backend)  
-
-🗄 Bases de Datos y ORMs  
-   🗄 SQL (MySQL | PostgreSQL | SQL Server | Oracle) (sistemas de gestión de bases de datos relacionales)  
-   🌿 MongoDB (base de datos NoSQL para aplicaciones escalables)  
-   🔥 Firebase (base de datos en tiempo real y autenticación)  
-   🔗 Sequelize (ORM para gestionar bases de datos SQL)  
-
-🔐 Seguridad y Pruebas de API  
-   🔑 JWT (autenticación segura con JSON Web Tokens)  
-   🧪 Postman (pruebas y automatización de APIs)  
-
-### 📲 Desarrollo Móvil  
-🤖 Android (desarrollo móvil para dispositivos Android)  
-☕ Java (desarrollo de apps Android heredadas)  
-⚛ React Native (desarrollo móvil multiplataforma)  
-🔵 Kotlin (lenguaje moderno para desarrollo en Android)  
-
-### 🎮 Desarrollo de Videojuegos  
-🎮 C# (usado en Unity para desarrollo de videojuegos)  
-🎮 C++ (programación de alto rendimiento para videojuegos)  
-🛠 Unity | Godot (motores de juego para desarrollo 2D y 3D)  
-🔷 Unreal Engine (motor de juegos AAA con gráficos de alta calidad)  
-🎨 Blender | Autodesk Maya (modelado y animación 3D)  
-
-### 📊 Análisis de Datos  
-🗄 SQL (consultas, optimización y modelado de datos)  
-📋 Excel (tablas dinámicas, fórmulas avanzadas y automatización)  
-📊 Tableau (dashboards interactivos y visualización de datos)  
-📈 Power BI (inteligencia de negocios e informes de datos)  
-
-### 📦 Otras Tecnologías  
-🐧 Linux (sistema operativo para desarrollo y servidores)  
-🐳 Docker (aplicaciones en contenedores y microservicios)  
-✅ Testing QA (aseguramiento de calidad de software y pruebas)  
-📌 Agile & Scrum (metodologías de desarrollo de software)  
-🔍 SEO (optimización para motores de búsqueda)  
-🌐 WordPress (CMS para creación de sitios web)  
-📑 Notion | Trello (gestión de proyectos y organización)  
-🏗 Bubble (desarrollo de aplicaciones web sin código)  
-
-### 🎨 Diseño y UI/UX  
-🎭 UX/UI (experiencia de usuario y diseño de interfaces)  
-🖼 Photoshop | Illustrator (diseño gráfico y maquetación)  
-🎬 After Effects | Premiere (edición de video y gráficos en movimiento)  
-🎨 Figma | XD (herramientas de prototipado y diseño de UI)  
+### e📊 Tecnologías en Análisis de Datos
+🗄 SQL (consultas, optimización y modelado de datos)
+📋 Excel (tablas dinámicas, fórmulas avanzadas y automatización)
+📊 Tableau (dashboards interactivos y visualización de datos)
+📈 Power BI (inteligencia de negocios e informes de datos)
+🐍 Python (análisis de datos, manipulación con pandas y automatización)
+📊 Matplotlib & Seaborn (visualización de datos en Python)
+⚡ ETL (procesos de extracción, transformación y carga de datos)
 
 ## 💡 Me Apasiona  
 - 👨‍💻 **Tecnología e Innovación**: Siempre explorando nuevas tendencias en software y ciencia de datos.  
