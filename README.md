@@ -4,9 +4,9 @@
 
 ¡Hola! Soy Leivur.  
 
-- 🚀 Estudiante entusiasta de **Análisis de Sistemas** | Aspirante a **Desarrollador de Software y Analista de Datos**  
-- 💻 Apasionado por la **Ingeniería de Software y los Datos**  
-- 📊 Actualmente aprendiendo **Java y Python**  
+- 🚀 Estudiante entusiasta de **Desarrollo Web** | Aspirante a **Desarrollador Front End y Analista de Datos**  
+- 💻 Apasionado por el **Diseño Web y los Datos**  
+- 📊 Actualmente aprendiendo **JavaScript**  
 
 ## 🔧 Habilidades y Tecnologías  
 
