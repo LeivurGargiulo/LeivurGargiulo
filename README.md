@@ -75,7 +75,7 @@ Como estudiante de la carrera de Desarrollo Web, estoy adquiriendo conocimientos
 - 📈 Trabajando en **proyectos de Análisis de Datos con datasets reales**  
 
 ### 🎨 Hobbies:  
-- 🎵 **Música y Bajo**: Explorando ritmos y componiendo música.  
+- 🎵 **Música**: Explorando ritmos y componiendo música.  
 - 🎮 **Gaming**: Disfrutando juegos de estrategia y RPG.  
 - 🌍 **Aprender y Experimentar**: Siempre trabajando en nuevos proyectos personales.  
 
