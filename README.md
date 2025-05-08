@@ -1,83 +1,68 @@
-# 🌟 Leivur Gargiulo  
+# 📊 Leivur Gargiulo | Data Analyst
 
-## 👩‍💻 About Me  
+## 👨‍💻 About Me
 
-Hello! I'm Leivur.  
+Enthusiastic Data Analysis student seeking my first professional opportunity in this field. Passionate about transforming data into actionable insights and using analytical tools to solve real-world problems.
 
-- 🚀 Enthusiastic **Data Analysis** student | Aspiring **Web Developer**  
-- 💻 Passionate about **Web Development and Data**  
-- 📊 Currently learning **JavaScript**  
+- 🚀 Student of **Data Analysis** seeking first industry role
+- 📊 Currently developing my skills in **data analysis and visualization**
+- 🔍 Working on **projects with real datasets** to build practical experience
+- 🌱 Continuously learning and expanding my analytical toolkit
 
-## 🔧 Skills and Technologies  
+## 🛠️ Technical Skills
 
-As a student, I'm acquiring knowledge in a wide range of technologies and tools. These will be my main skills in the future! 
+### Data Analysis
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### 🖥 Web Technologies
-🎨 **FRONTEND**
-- 🖼 **HTML** (web page structure)
-- 🎨 **CSS** (web styling and design)
-- 🎭 **SASS** (CSS preprocessor for greater efficiency)
-- ⚡ **JavaScript** (interactivity and dynamism in web pages)
-- 🔷 **TypeScript** (improved JavaScript with static typing)
-- ⚛️ **React** (library for dynamic user interfaces)
-- 🚏 **Router** (route management in React applications)
-- 🎨 **Tailwind CSS** (framework for fast and efficient styles)
-- 🖌 **Tailwind UI** (ready-to-use components for Tailwind)
-- ⚙️ **Vite.js** (fast development environment for React projects)
-- 🌍 **Next.js** (framework built on React with SSR and SSG, useful for SEO)
-- 🚀 **Astro** (modern framework for static and dynamic websites)
-- 🔄 **Redux** (state management in React applications)
-- 🌿 **Alpine.js** (lightweight framework for interactivity without React)
-- 🛠 **Shadcn UI** (modern component library for React)
+### Data Visualization
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
 
-🖥 **BACKEND**
-- 🛠 **Node.js** (JavaScript in the backend to create APIs and servers)
-- 🚀 **Express** (lightweight framework for building APIs with Node.js)
-- 🛢 **MySQL** (relational database for web applications)
-- 🔥 **Firebase** (NoSQL cloud database from Google)
-- 🔗 **Sequelize** (ORM for handling SQL databases in Node.js)
-- 🔑 **JWT** (secure authentication mechanism for users)
+### ETL & Data Processing
+![ETL](https://img.shields.io/badge/ETL-025E8C?style=flat-square&logo=apache-airflow&logoColor=white)
 
-🔧 **TOOLS AND OTHER TECHNOLOGIES**
-- 🐙 **Git** (version control and project collaboration)
-- 🌎 **i18next** (internationalization and translation in web applications)
-- 📡 **Postman** (API and backend testing)
-- 🐳 **Docker** (application virtualization and deployment)
+## 📈 Current Projects
 
-🚀 **METHODOLOGIES AND OPTIMIZATION**
-- ⚡ **Agile** (agile development methodology)
-- 📌 **Scrum** (framework for development teams)
-- 🔍 **SEO** (search engine optimization)
+### Personal Data Analysis Portfolio (In Progress)
+Working with real datasets to build a comprehensive portfolio demonstrating my data analysis skills.
 
-🎨 **UI / DESIGN**
-- 🖌 **Photoshop** (editing and graphic design)
-- 🎨 **Illustrator** (illustrations and vector graphics)
-- 🎬 **Premiere** (professional video editing)
-- 🎞 **After Effects** (animations and visual effects)
-- 🖍 **XD** (interface design and prototyping)
+**Focus Areas:**
+- Data cleaning and preparation
+- Exploratory data analysis
+- Creating visualizations and dashboards
+- Extracting actionable insights
 
-### 📊 Data Analysis Technologies
-- 🗄 SQL (queries, optimization, and data modeling)
-- 📋 Excel (pivot tables, advanced formulas, and automation)
-- 📊 Tableau (interactive dashboards and data visualization)
-- 📈 Power BI (business intelligence and data reporting)
-- 🐍 Python (data analysis, pandas manipulation, and automation)
-- 📊 Pandas, NumPy, Matplotlib, Seaborn (data visualization in Python)
-- ⚡ ETL (extract, transform, and load data processes)
+## 💡 What I'm Passionate About
 
-## 💡 I'm Passionate About  
-- 👨‍💻 **Technology and Innovation**: Always exploring new trends in software and data science.  
-- 🔄 **Automation and Optimization**: Looking for ways to improve workflows and efficiency.  
-- 🌍 **Open Source and Community**: Learning, sharing, and collaborating with others.  
+- 🔍 **Data-Driven Decision Making**: Using data to inform and improve business strategies
+- 🔄 **Process Optimization**: Finding ways to make workflows more efficient through data analysis
+- 📊 **Data Visualization**: Turning complex datasets into clear, visually compelling stories
+- 🌍 **Open Source & Community**: Learning from and contributing to the data community
 
-## ⚡ In my free time:  
-- 🎯 Developing a **Personal Organization Application** as a PWA  
-- 📈 Working on **Data Analysis projects** with real datasets 
+## 🎓 Learning Focus
 
-### 🎨 Hobbies:  
-- 🎵 **Music**: Exploring rhythms and composing music.  
-- 🎮 **Gaming**: Enjoying strategy and RPG games.  
-- 🌍 **Learning and Experimenting**: Always working on new personal projects.  
+I'm currently enhancing my skills in:
+- Advanced SQL queries
+- Dashboard creation in Tableau and Power BI
+- Python libraries for data analysis (Pandas, NumPy, etc.)
+- Statistical analysis techniques
 
-# 🌐 Social Media:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com)  [![Portfolio](https://img.shields.io/badge/Portfolio-yellow)](https://)  [![Behance](https://img.shields.io/badge/Behance-violet)](https://)
+## 📫 Let's Connect!
+
+I'm actively seeking entry-level data analyst roles where I can apply my analytical skills and continue to grow.
+
+- 🔗 LinkedIn: [LinkedIn](https://linkedin.com)
+- 💼 Portfolio: [Portfolio](https://portfolio-link)
+- 🎨 Behance: [Behance](https://behance-link)
+
+_"The goal is to turn data into information, and information into insight." – Carly Fiorina_
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/luisina-gargiulo/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yellow)](https://)
+[![Behance](https://img.shields.io/badge/Behance-violet)](https://)
