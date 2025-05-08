@@ -72,7 +72,7 @@ As a student, I'm acquiring knowledge in a wide range of technologies and tools.
 
 ## ⚡ In my free time:  
 - 🎯 Developing a **Personal Organization Application** as a PWA  
-- 📈 Working on **Data Analysis projects with real datasets**  
+- 📈 Working on **Data Analysis projects** with real datasets 
 
 ### 🎨 Hobbies:  
 - 🎵 **Music**: Exploring rhythms and composing music.  
