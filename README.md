@@ -62,7 +62,3 @@ I'm actively seeking entry-level data analyst roles where I can apply my analyti
 - 🎨 Behance: [Behance](https://behance-link)
 
 _"The goal is to turn data into information, and information into insight." – Carly Fiorina_
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/luisina-gargiulo/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-yellow)](https://)
-[![Behance](https://img.shields.io/badge/Behance-violet)](https://)
