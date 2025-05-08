@@ -1,83 +1,83 @@
 # 🌟 Leivur Gargiulo  
 
-## 👩‍💻 Sobre Mí  
+## 👩‍💻 About Me  
 
-¡Hola! Soy Leivur.  
+Hello! I'm Leivur.  
 
-- 🚀 Estudiante entusiasta de **Análisis de Datos** | Aspirante a **Desarrollador Web**  
-- 💻 Apasionado por el **Desarrollo Web y los Datos**  
-- 📊 Actualmente aprendiendo **JavaScript**  
+- 🚀 Enthusiastic **Data Analysis** student | Aspiring **Web Developer**  
+- 💻 Passionate about **Web Development and Data**  
+- 📊 Currently learning **JavaScript**  
 
-## 🔧 Habilidades y Tecnologías  
+## 🔧 Skills and Technologies  
 
-Como estudiante, estoy adquiriendo conocimientos en una amplia gama de tecnologías y herramientas. ¡Estas serán mis principales habilidades en el futuro! 
+As a student, I'm acquiring knowledge in a wide range of technologies and tools. These will be my main skills in the future! 
 
-### 🖥 Tecnologías Web
+### 🖥 Web Technologies
 🎨 **FRONTEND**
-- 🖼 **HTML** (estructura de las páginas web)
-- 🎨 **CSS** (estilos y diseño web)
-- 🎭 **SASS** (preprocesador de CSS para mayor eficiencia)
-- ⚡ **JavaScript** (interactividad y dinamismo en páginas web)
-- 🔷 **TypeScript** (JavaScript mejorado con tipado estático)
-- ⚛️ **React** (librería para interfaces de usuario dinámicas)
-- 🚏 **Router** (gestión de rutas en aplicaciones React)
-- 🎨 **Tailwind CSS** (framework para estilos rápidos y eficientes)
-- 🖌 **Tailwind UI** (componentes listos para Tailwind)
-- ⚙️ **Vite.js** (entorno de desarrollo rápido para proyectos con React)
-- 🌍 **Next.js** (framework sobre React con SSR y SSG, útil para SEO)
-- 🚀 **Astro** (framework moderno para sitios web estáticos y dinámicos)
-- 🔄 **Redux** (gestión de estado en aplicaciones React)
-- 🌿 **Alpine.js** (framework ligero para interactividad sin React)
-- 🛠 **Shadcn UI** (librería de componentes moderna para React)
+- 🖼 **HTML** (web page structure)
+- 🎨 **CSS** (web styling and design)
+- 🎭 **SASS** (CSS preprocessor for greater efficiency)
+- ⚡ **JavaScript** (interactivity and dynamism in web pages)
+- 🔷 **TypeScript** (improved JavaScript with static typing)
+- ⚛️ **React** (library for dynamic user interfaces)
+- 🚏 **Router** (route management in React applications)
+- 🎨 **Tailwind CSS** (framework for fast and efficient styles)
+- 🖌 **Tailwind UI** (ready-to-use components for Tailwind)
+- ⚙️ **Vite.js** (fast development environment for React projects)
+- 🌍 **Next.js** (framework built on React with SSR and SSG, useful for SEO)
+- 🚀 **Astro** (modern framework for static and dynamic websites)
+- 🔄 **Redux** (state management in React applications)
+- 🌿 **Alpine.js** (lightweight framework for interactivity without React)
+- 🛠 **Shadcn UI** (modern component library for React)
 
 🖥 **BACKEND**
-- 🛠 **Node.js** (JavaScript en el backend para crear APIs y servidores)
-- 🚀 **Express** (framework ligero para construir APIs con Node.js)
-- 🛢 **MySQL** (base de datos relacional para aplicaciones web)
-- 🔥 **Firebase** (base de datos NoSQL en la nube de Google)
-- 🔗 **Sequelize** (ORM para manejar bases de datos SQL en Node.js)
-- 🔑 **JWT** (mecanismo de autenticación segura para usuarios)
+- 🛠 **Node.js** (JavaScript in the backend to create APIs and servers)
+- 🚀 **Express** (lightweight framework for building APIs with Node.js)
+- 🛢 **MySQL** (relational database for web applications)
+- 🔥 **Firebase** (NoSQL cloud database from Google)
+- 🔗 **Sequelize** (ORM for handling SQL databases in Node.js)
+- 🔑 **JWT** (secure authentication mechanism for users)
 
-🔧 **HERRAMIENTAS Y OTRAS TECNOLOGÍAS**
-- 🐙 **Git** (control de versiones y colaboración en proyectos)
-- 🌎 **i18next** (internacionalización y traducción en aplicaciones web)
-- 📡 **Postman** (pruebas de APIs y backend)
-- 🐳 **Docker** (virtualización y despliegue de aplicaciones)
+🔧 **TOOLS AND OTHER TECHNOLOGIES**
+- 🐙 **Git** (version control and project collaboration)
+- 🌎 **i18next** (internationalization and translation in web applications)
+- 📡 **Postman** (API and backend testing)
+- 🐳 **Docker** (application virtualization and deployment)
 
-🚀 **METODOLOGÍAS Y OPTIMIZACIÓN**
-- ⚡ **Agile** (metodología de desarrollo ágil)
-- 📌 **Scrum** (marco de trabajo para equipos de desarrollo)
-- 🔍 **SEO** (optimización para motores de búsqueda)
+🚀 **METHODOLOGIES AND OPTIMIZATION**
+- ⚡ **Agile** (agile development methodology)
+- 📌 **Scrum** (framework for development teams)
+- 🔍 **SEO** (search engine optimization)
 
-🎨 **UI / DISEÑO**
-- 🖌 **Photoshop** (edición y diseño gráfico)
-- 🎨 **Illustrator** (ilustraciones y gráficos vectoriales)
-- 🎬 **Premiere** (edición de video profesional)
-- 🎞 **After Effects** (animaciones y efectos visuales)
-- 🖍 **XD** (diseño y prototipado de interfaces)
+🎨 **UI / DESIGN**
+- 🖌 **Photoshop** (editing and graphic design)
+- 🎨 **Illustrator** (illustrations and vector graphics)
+- 🎬 **Premiere** (professional video editing)
+- 🎞 **After Effects** (animations and visual effects)
+- 🖍 **XD** (interface design and prototyping)
 
-### 📊 Tecnologías en Análisis de Datos
-- 🗄 SQL (consultas, optimización y modelado de datos)
-- 📋 Excel (tablas dinámicas, fórmulas avanzadas y automatización)
-- 📊 Tableau (dashboards interactivos y visualización de datos)
-- 📈 Power BI (inteligencia de negocios e informes de datos)
-- 🐍 Python (análisis de datos, manipulación con pandas y automatización)
-- 📊 Pandas, NumPy, Matplotlib, Seaborn (visualización de datos en Python)
-- ⚡ ETL (procesos de extracción, transformación y carga de datos)
+### 📊 Data Analysis Technologies
+- 🗄 SQL (queries, optimization, and data modeling)
+- 📋 Excel (pivot tables, advanced formulas, and automation)
+- 📊 Tableau (interactive dashboards and data visualization)
+- 📈 Power BI (business intelligence and data reporting)
+- 🐍 Python (data analysis, pandas manipulation, and automation)
+- 📊 Pandas, NumPy, Matplotlib, Seaborn (data visualization in Python)
+- ⚡ ETL (extract, transform, and load data processes)
 
-## 💡 Me Apasiona  
-- 👨‍💻 **Tecnología e Innovación**: Siempre explorando nuevas tendencias en software y ciencia de datos.  
-- 🔄 **Automatización y Optimización**: Buscando formas de mejorar flujos de trabajo y eficiencia.  
-- 🌍 **Open Source y Comunidad**: Aprendiendo, compartiendo y colaborando con otros.  
+## 💡 I'm Passionate About  
+- 👨‍💻 **Technology and Innovation**: Always exploring new trends in software and data science.  
+- 🔄 **Automation and Optimization**: Looking for ways to improve workflows and efficiency.  
+- 🌍 **Open Source and Community**: Learning, sharing, and collaborating with others.  
 
-## ⚡ En mi tiempo libre:  
-- 🎯 Desarrollando una **Aplicación de Organización Personal** como PWA  
-- 📈 Trabajando en **proyectos de Análisis de Datos con datasets reales**  
+## ⚡ In my free time:  
+- 🎯 Developing a **Personal Organization Application** as a PWA  
+- 📈 Working on **Data Analysis projects with real datasets**  
 
 ### 🎨 Hobbies:  
-- 🎵 **Música**: Explorando ritmos y componiendo música.  
-- 🎮 **Gaming**: Disfrutando juegos de estrategia y RPG.  
-- 🌍 **Aprender y Experimentar**: Siempre trabajando en nuevos proyectos personales.  
+- 🎵 **Music**: Exploring rhythms and composing music.  
+- 🎮 **Gaming**: Enjoying strategy and RPG games.  
+- 🌍 **Learning and Experimenting**: Always working on new personal projects.  
 
-# 🌐 Redes Sociales:  
+# 🌐 Social Media:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com)  [![Portfolio](https://img.shields.io/badge/Portfolio-yellow)](https://)  [![Behance](https://img.shields.io/badge/Behance-violet)](https://)
