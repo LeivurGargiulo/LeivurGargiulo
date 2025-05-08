@@ -4,13 +4,13 @@
 
 ¡Hola! Soy Leivur.  
 
-- 🚀 Estudiante entusiasta de **Desarrollo Web** | Aspirante a **Desarrollador Front End y Analista de Datos**  
-- 💻 Apasionado por el **Diseño Web y los Datos**  
+- 🚀 Estudiante entusiasta de **Análisis de Datos** | Aspirante a **Desarrollador Web**  
+- 💻 Apasionado por el **Desarrollo Web y los Datos**  
 - 📊 Actualmente aprendiendo **JavaScript**  
 
 ## 🔧 Habilidades y Tecnologías  
 
-Como estudiante de la carrera de Desarrollo Web, estoy adquiriendo conocimientos en una amplia gama de tecnologías y herramientas. ¡Estas serán mis principales habilidades en el futuro! 
+Como estudiante, estoy adquiriendo conocimientos en una amplia gama de tecnologías y herramientas. ¡Estas serán mis principales habilidades en el futuro! 
 
 ### 🖥 Tecnologías Web
 🎨 **FRONTEND**
@@ -80,4 +80,4 @@ Como estudiante de la carrera de Desarrollo Web, estoy adquiriendo conocimientos
 - 🌍 **Aprender y Experimentar**: Siempre trabajando en nuevos proyectos personales.  
 
 # 🌐 Redes Sociales:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com)  [![Landing](https://img.shields.io/badge/Landing-violet)](https://)  [![Portfolio](https://img.shields.io/badge/Portfolio-yellow)](https://)  [![Instagram](https://img.shields.io/badge/Instagram-orange)](https://www.instagram.com/leivurgargiulo/)  [![TikTok](https://img.shields.io/badge/TikTok-green)](https://www.tiktok.com/@leivurgargiulo)  [![YouTube](https://img.shields.io/badge/YouTube-red)](https://www.youtube.com/@LeivurGargiulo)[![Discord](https://img.shields.io/badge/Discord-violet)](https://discord.gg/QUX3wjDz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com)  [![Portfolio](https://img.shields.io/badge/Portfolio-yellow)](https://)  [![Behance](https://img.shields.io/badge/Behance-violet)](https://)
