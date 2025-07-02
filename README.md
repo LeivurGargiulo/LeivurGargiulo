@@ -21,7 +21,7 @@ Enthusiastic Full Stack Web Development student seeking my first professional op
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
+![Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-0C1222?style=flat-square&logo=astro&logoColor=FDFDFE)
