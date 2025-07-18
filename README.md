@@ -88,6 +88,6 @@ Estoy buscando activamente roles de nivel inicial como desarrollador full stack 
 
 - 🔗 LinkedIn: [LinkedIn](https://linkedin.com)  
 - 💼 Portfolio: [Portfolio](https://portfolio-link)  
-- 📝 Blog: [Behance](https://behance-link)  
+- 📝 Blog: [Blog](https://behance-link)  
 
 _“La mejor forma de predecir el futuro es creándolo.” – Peter Drucker_
