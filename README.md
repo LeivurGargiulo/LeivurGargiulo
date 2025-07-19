@@ -25,10 +25,11 @@ Enthusiastic Full Stack Web Development student seeking my first professional op
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-0C1222?style=flat-square&logo=astro&logoColor=FDFDFE)
+![Svelte](https://img.shields.io/badge/Svelte-orange?style=flat-square&logo=svelte&logoColor=white&logoSize=auto)
 
 ### Styling & UI
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Tailwind UI](https://img.shields.io/badge/Tailwind_UI-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn](https://img.shields.io/badge/shadcn-blue?style=flat-square&logo=shadcnui&logoSize=auto)
 
 ### Build Tools & Development
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
