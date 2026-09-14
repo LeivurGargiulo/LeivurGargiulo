@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Leivur 👋</h1>
 
-<p align="center">
-  General Rodríguez, Buenos Aires, Argentina 🇦🇷
-</p>
-
 ---
 
 ### 🇬🇧 English
